@@ -67,7 +67,7 @@ visit http://temper-onboarding-tool.dev/import
 visit http://temper-onboarding-tool.dev/admin
 
 JSON Response: 
-![alt text]( json response.png "JSON Response")
+![alt text]( Json_Response.png.png "JSON Response")
 
 ## Front End.
 Minimal version available in the directory `TemperOnboardingToolFontEnd`
