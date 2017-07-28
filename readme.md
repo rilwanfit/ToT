@@ -42,6 +42,15 @@ sudo nano /etc/hosts
 192.168.10.10   temper-onboarding-tool.dev
 ```
 
+## .ENV
+Please rename `.env.sample` to `.env` following to get it working
+
+Currently settings added to sample file for simplicity.
+
+```
+cp .env.example .env
+```
+
 ## Composer Install Required.
 ```
 composer install
